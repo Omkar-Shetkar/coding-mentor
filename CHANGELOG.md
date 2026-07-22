@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.1.0] - 2026-07-22
+## [0.0.1] - 2026-07-22
 
 ### Added
 - Established the initial repository structure with project licensing and a basic README.
