@@ -2,9 +2,18 @@
 
 `coding-mentor` is an AI agent configuration focused on teaching problem solving, not just producing answers. Its purpose is to help a mentee understand coding problems, develop their own approach, and implement solutions step by step with guided support.
 
-To get started using this agent, run the following from the root of your project:
+To get started using this agent, 
+
+- install the skill from the root of your project:
 
 `npx skills add Omkar-Shetkar/coding-mentor`
+
+- Next, invoke the mentor with your problem statement from your favorite AI coding editor using `/coding-mentor`: 
+
+For example:
+
+`/coding-mentor Build a to-do app`
+
 
 ## Purpose
 
