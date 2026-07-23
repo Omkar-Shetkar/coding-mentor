@@ -11,6 +11,7 @@ This agent is designed to:
 - avoid immediately dumping full copy-paste implementations for non-trivial tasks
 - help users work inside existing codebases by understanding specifications before diving into source code
 - encourage verification through testing, edge-case review, and iterative refinement
+- manage specification discovery, creation, updates, and index synchronization as an internal lifecycle responsibility
 
 ## How It Works
 
@@ -20,3 +21,5 @@ The Coding Mentor follows a phase-based workflow:
 2. Ask the mentee for a high-level approach or pseudocode.
 3. Guide implementation in small steps.
 4. Verify behavior with tests and edge cases.
+
+Specification management is packaged into the Coding Mentor workflow and is not intended to be a separate user-facing skill.

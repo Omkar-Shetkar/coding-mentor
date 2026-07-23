@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+
+### Changed
+- Packaged specification management into the Coding Mentor lifecycle as an internal workflow instead of a user-facing delegated step.
+- Updated mentoring and workspace guidance to reference internal spec lifecycle operations during scoping and verification phases.
+- Removed the standalone Spec Manager skill document and kept specification lifecycle guidance under Coding Mentor.
+
 ## [0.0.1] - 2026-07-22
 
 ### Added
