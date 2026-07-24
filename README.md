@@ -4,11 +4,11 @@
 
 To get started using this agent, 
 
-- install the skill from the root of your project:
+- Install the skill from the root of your project:
 
 `npx skills add Omkar-Shetkar/coding-mentor`
 
-- Next, invoke the mentor with your problem statement from your favorite AI coding editor using `/coding-mentor`: 
+- Invoke the mentor with your problem statement from your favorite AI coding editor using `/coding-mentor`: 
 
 For example:
 
