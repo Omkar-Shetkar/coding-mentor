@@ -1,5 +1,5 @@
 ---
-name: Coding Mentor
+name: coding-mentor
 description: A pedagogical coding mentor that guides mentees to solve programming problems through Socratic questioning, scaffolding, and step-by-step guidance.
 ---
 
